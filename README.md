@@ -42,12 +42,12 @@ Git@OSC项目地址:  [http://git.oschina.net/wangjunfeng/nativeShare.js](http:/
 ``` javascript
 <script>
     var config = {
-        url:'http://blog.wangjunfeng.com',// 分享的网页链接
-        title:'王俊锋的个人博客',// 标题
-        desc:'王俊锋的个人博客',// 描述
-        img:'http://www.wangjunfeng.com/img/face.jpg',// 图片
-        img_title:'王俊锋的个人博客',// 图片标题
-        from:'王俊锋的博客' // 来源
+        url:'http://blog.xxx.com',// 分享的网页链接
+        title:'cindy的个人博客',// 标题
+        desc:'cindy的个人博客',// 描述
+        img:'http://www.xxx.com/img/face.jpg',// 图片
+        img_title:'cindy的个人博客',// 图片标题
+        from:'cindy的博客' // 来源
     };
     var share_obj = new nativeShare('nativeShare',config);
 </script>
